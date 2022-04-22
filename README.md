@@ -4,6 +4,7 @@
 
 ## 목차
 
+- [키워드](#키워드)
 - [STEP 1](#step-1)
     + [고민 및 해결한 점](#고민_및_해결한_점)
 - [STEP 2](#step-2)
@@ -13,6 +14,26 @@
 - [그라운드 룰](#그라운드-룰)
     + [스크럼](#스크럼)
     + [코딩 컨벤션](#코딩-컨벤션) 
+
+---
+
+## 키워드
+- `MVC`
+- `Orientation`
+- `JSONDecoder`
+- `UITableView`
+- `CustomCell`
+- `ReusableCell`
+- `UnitTest`
+- `Bundle`
+- `DataSource & Delegate`
+- `Accessibility & Dynamic Types`
+- `AutoLayout`
+- `NavigationController`
+- `NSMutableAttributedString`
+- `NSCoder & NSCoding`
+- `DI(Dependency Injection)`
+- `NumberFormatter`
 
 ---
 
