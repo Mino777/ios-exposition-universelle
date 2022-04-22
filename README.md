@@ -2,6 +2,12 @@
 > 프로젝트 기간 2022.04.11 ~ 2022.04.22 </br>
 팀원 : [@Lingo](https://github.com/llingo) [@마이노](https://github.com/Mino777) / 리뷰어 : [@라자냐](https://github.com/wonhee009)
 
+## 구현 화면
+
+|화면 동작|접근성|
+|:---:|:---:|
+|<img width="250px" src="https://user-images.githubusercontent.com/94151993/164711501-e5b96bc8-1871-4873-8663-7b98cbc6712c.gif"/>|<img width="530px" src="https://user-images.githubusercontent.com/94151993/164712533-adddc9b5-55e6-49b7-9138-854de1636161.gif"/>|
+
 ## 목차
 
 - [키워드](#키워드)
