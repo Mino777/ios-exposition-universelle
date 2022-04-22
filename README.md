@@ -4,6 +4,7 @@
 
 ## 목차
 
+- [키워드](#키워드)
 - [STEP 1](#step-1)
     + [고민 및 해결한 점](#고민_및_해결한_점)
 - [STEP 2](#step-2)
@@ -18,11 +19,11 @@
 
 ## 키워드
 - `MVC`
+- `Orientation`
 - `JSONDecoder`
 - `UITableView`
 - `CustomCell`
 - `ReusableCell`
-- `UIListContentConfiguration`
 - `UnitTest`
 - `Bundle`
 - `DataSource & Delegate`
@@ -30,7 +31,7 @@
 - `AutoLayout`
 - `NavigationController`
 - `NSMutableAttributedString`
-- `NSCoder &  NSCoding`
+- `NSCoder & NSCoding`
 - `DI(Dependency Injection)`
 - `NumberFormatter`
 
