@@ -16,6 +16,26 @@
 
 ---
 
+## 키워드
+- `MVC`
+- `JSONDecoder`
+- `UITableView`
+- `CustomCell`
+- `ReusableCell`
+- `UIListContentConfiguration`
+- `UnitTest`
+- `Bundle`
+- `DataSource & Delegate`
+- `Accessibility & Dynamic Types`
+- `AutoLayout`
+- `NavigationController`
+- `NSMutableAttributedString`
+- `NSCoder &  NSCoding`
+- `DI(Dependency Injection)`
+- `NumberFormatter`
+
+---
+
 ## [STEP 1]
 ### 고민 및 해결한 점
 - 서로 커뮤니케이션을 통해 코딩 컨벤션을 맞추는 것을 고민했습니다.
