@@ -137,7 +137,7 @@ override func viewWillDisappear(_ animated: Bool) {
 **2. 첫 화면은 portrait으로 고정, 다른 화면은 landScape 허용**
 AppDelegate의 해당 메서드를 통해 MainViewController의 viewWillAppear에서 UIInterfaceOrientationMask을 portrait으로 고정 시켜준 뒤 viewWillDisappear에서 다시 모든 화면 전환이 가능하도록 고정을 풀어주어 해결하였습니다.
 
-```swift=
+```swift
 func application(_ application: UIApplication, supportedInterfaceOrientationsFor window: UIWindow?)
 ```
 
@@ -171,7 +171,7 @@ Button의 titleLabel의 Dynamic Type을 적용했을 때 FontSize를 컨트롤�
 
 ---
 
-## 🪧 Lingo, 마이노 팀 그라운드 룰
+## 🪧 Lingo, 마이노 팀 그라운드 룰
 ### ✏️ 스크럼
 - 스크럼은 딱딱한 분위기보단 자유롭고 부드러운 분위기로 😋
 - 매일 아침 10시 30분, 디스코드에서 진행
@@ -200,7 +200,7 @@ Button의 titleLabel의 Dynamic Type을 적용했을 때 FontSize를 컨트롤�
 #### Swift 코드 스타일
 코드 스타일은 [스타일쉐어 가이드 컨벤션](https://github.com/StyleShare/swift-style-guide#%EC%A4%84%EB%B0%94%EA%BF%88) 에 따라 진행한다.
 
-### Commit 규칙
+### Commit 규칙
 커밋 제목은 최대 50자 입력
 본문은 한 줄 최대 72자 입력
 
